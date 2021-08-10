@@ -2,7 +2,7 @@
 
 
 - 🔭 I’m currently working on Unity
-- 🌱 I’m currently learning Figma
+- 🌱 I’m currently learning Javascript
 - 👯 I’m looking to collaborate on Hackathons
 - 🤔 I’m looking for help with Hackathons
 - 😄 Pronouns: Happy, Hard Working, Passionate and Helpful
