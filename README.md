@@ -33,7 +33,7 @@
 
 <div align="center">
 <a href="https://github.com/GitSatishGarg" align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=gitsatishgarg&show_icons=true&include_all_commits=true&theme=algolia" alt="Satish's github stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=gitsatishgarg&show_icons=true&include_all_commits=true&theme=algolia&hide_border=true" alt="Satish's github stats">
 </a>
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=GitSatishGarg&theme=algolia&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
