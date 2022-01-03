@@ -15,9 +15,10 @@
 <h3 align="left">Contact:</h3>
 <p align="center">
 <a href="https://www.linkedin.com/in/satish-garg-42ab70217/"> <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" width="40" height="40"/> </a>
-<a href="https://www.behance.net/FoxArt"><img src="https://cdn.worldvectorlogo.com/logos/behance-1.svg" alt="Behance" width="40" height="40"/></a>
+<a href="https://www.behance.net/VoltronexArts"><img src="https://cdn.worldvectorlogo.com/logos/behance-1.svg" alt="Behance" width="40" height="40"/></a>
 <a href="https://devpost.com/GitSatishGarg?ref_content=user-portfolio&ref_feature=portfolio&ref_medium=global-nav"><img src="https://i.ibb.co/9g6Xp3t/devpost.png" alt="Devpost" width="50" height="40"/></a>
 <a href="https://www.deviantart.com/voltronex"><img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/013a2198-cd75-4f7a-afd3-b0d851554737/dawpst1-0aa5dfb1-7924-41ca-a315-e23c1986bf16.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzAxM2EyMTk4LWNkNzUtNGY3YS1hZmQzLWIwZDg1MTU1NDczN1wvZGF3cHN0MS0wYWE1ZGZiMS03OTI0LTQxY2EtYTMxNS1lMjNjMTk4NmJmMTYuanBnIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.Rqpa4F2r17q7LCmAoKWDXy9vE3ph64PFSf8yKCmDA-g" alt="DeviantArt" width="40" height="40"/></a>
+  <a href="https://dev.to/gitsatishgarg"><img src="https://d2fltix0v2e0sb.cloudfront.net/dev-black.png" alt="Dev" width="50" height="40"/></a>
 </p>
  
   <hr>
