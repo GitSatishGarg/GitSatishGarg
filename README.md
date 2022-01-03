@@ -1,16 +1,16 @@
  <img align="right" src="https://i.ibb.co/5YHKsns/header.png"> 
- <hr>
- <h3 align="left">About Me:</h3> 
+
+ <h3>About Me:- <img align="right" src="https://i.ibb.co/FXs2Fw2/Untitled-1.png" height="300px" /></h3> 
+
 - 🔭 I’m currently working on Photoshop CC </br>
 - 🌱 I’m currently learning Javascript and Photoshop CC </br>
 - 👯 I’m looking to collaborate on Hackathons </br>
 - 🤔 I’m looking for help with Hackathons </br>
-- 😄 Pronouns: Happy, Hard Working, Passionate and Helpful </br>
+- 😄 Pronouns: Happy, Hard Working, Passionate, Determined, Helpful, Curious, Kind, etc. </br>
 - ⚡ Fun fact: I like Owls
 
-<img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/>
-
- <hr>
+</br></br>
+<hr>
 
 <h3 align="left">Contact:</h3>
 <p align="center">
