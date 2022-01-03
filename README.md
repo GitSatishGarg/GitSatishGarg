@@ -1,4 +1,4 @@
- <img align="right" src="https://i.ibb.co/5YHKsns/header.png"> 
+ <img align="right" src="https://i.ibb.co/dgHN1P7/Header.png"> 
 
  <h3>About Me:- <img align="right" src="https://i.ibb.co/FXs2Fw2/Untitled-1.png" height="300px" /></h3> 
 
