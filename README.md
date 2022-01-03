@@ -1,4 +1,5 @@
- <img src="https://i.ibb.co/dgHN1P7/Header.png"> 
+![HEADER](https://user-images.githubusercontent.com/71393132/147956740-e34caf64-bbc2-4f74-9af7-964111c8f5d5.png)
+
 
  <h3>About Me:- <img align="right" src="https://i.ibb.co/FXs2Fw2/Untitled-1.png" height="300px" /></h3> 
 
@@ -37,5 +38,6 @@
  
  <a href="https://github.com/SubhamRaoniar28/github-readme-activity-graph"><img alt="Subham Raoniar's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=GitSatishGarg&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
- <img src="https://i.ibb.co/Q9PbfN1/HEADER.png">
+ ![HEADER](https://user-images.githubusercontent.com/71393132/147956740-e34caf64-bbc2-4f74-9af7-964111c8f5d5.png)
+
  <h3 align="center">Bye!</h3>
