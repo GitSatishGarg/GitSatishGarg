@@ -8,6 +8,8 @@
 - 😄 Pronouns: Happy, Hard Working, Passionate and Helpful </br>
 - ⚡ Fun fact: I like Owls
 
+<img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/>
+
  <hr>
 
 <h3 align="left">Contact:</h3>
@@ -34,3 +36,5 @@
 </a>
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=GitSatishGarg&theme=algolia&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+ 
+ <a href="https://github.com/SubhamRaoniar28/github-readme-activity-graph"><img alt="Subham Raoniar's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=GitSatishGarg&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
