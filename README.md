@@ -1,4 +1,4 @@
- <img align="right" src="https://i.ibb.co/dgHN1P7/Header.png"> 
+ <img src="https://i.ibb.co/dgHN1P7/Header.png"> 
 
  <h3>About Me:- <img align="right" src="https://i.ibb.co/FXs2Fw2/Untitled-1.png" height="300px" /></h3> 
 
@@ -36,3 +36,6 @@
  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=GitSatishGarg&theme=algolia&hide_border=true&date_format=M%20j%5B%2C%20Y%5D">
  
  <a href="https://github.com/SubhamRaoniar28/github-readme-activity-graph"><img alt="Subham Raoniar's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=GitSatishGarg&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+
+ <img src="https://i.ibb.co/Q9PbfN1/HEADER.png">
+ <h3 align="center">Bye!</h3>
