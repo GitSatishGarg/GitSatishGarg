@@ -32,10 +32,7 @@
 <h3 align="left">My Stats:</h3>
 
 <div align="center">
-<a href="https://github.com/GitSatishGarg" align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=gitsatishgarg&show_icons=true&include_all_commits=true&theme=algolia&hide_border=true" alt="Satish's github stats">
-</a>
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=GitSatishGarg&theme=algolia&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+ <img width="49%" src="https://github-readme-stats.vercel.app/api?username=gitsatishgarg&show_icons=true&include_all_commits=true&theme=algolia&hide_border=true">
+ <img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=GitSatishGarg&theme=algolia&hide_border=true&date_format=M%20j%5B%2C%20Y%5D">
  
  <a href="https://github.com/SubhamRaoniar28/github-readme-activity-graph"><img alt="Subham Raoniar's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=GitSatishGarg&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
