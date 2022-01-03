@@ -1,10 +1,10 @@
- <img align="right" src="https://i.ibb.co/5YHKsns/header.png"><br>
- 
-- 🔭 I’m currently working on Photoshop CC
-- 🌱 I’m currently learning Javascript and Photoshop CC
-- 👯 I’m looking to collaborate on Hackathons
-- 🤔 I’m looking for help with Hackathons
-- 😄 Pronouns: Happy, Hard Working, Passionate and Helpful
+ <img align="right" src="https://i.ibb.co/5YHKsns/header.png">
+ <h3 align="left">About Me:</h3> 
+- 🔭 I’m currently working on Photoshop CC </br>
+- 🌱 I’m currently learning Javascript and Photoshop CC </br>
+- 👯 I’m looking to collaborate on Hackathons </br>
+- 🤔 I’m looking for help with Hackathons </br>
+- 😄 Pronouns: Happy, Hard Working, Passionate and Helpful </br>
 - ⚡ Fun fact: I like Owls
 
 
