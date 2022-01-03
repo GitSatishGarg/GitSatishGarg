@@ -1,5 +1,4 @@
-![HEADER](https://user-images.githubusercontent.com/71393132/147956740-e34caf64-bbc2-4f74-9af7-964111c8f5d5.png)
-
+![BEST HEADER](https://user-images.githubusercontent.com/71393132/147964925-0f7eee81-1fcb-4e46-9d28-9806b444e581.png)
 
  <h3>About Me:- <img align="right" src="https://i.ibb.co/FXs2Fw2/Untitled-1.png" height="300px" /></h3> 
 
@@ -37,7 +36,7 @@
  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=GitSatishGarg&theme=algolia&hide_border=true&date_format=M%20j%5B%2C%20Y%5D">
  
  <a href="https://github.com/SubhamRaoniar28/github-readme-activity-graph"><img alt="Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=GitSatishGarg&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
-
- ![HEADER](https://user-images.githubusercontent.com/71393132/147956740-e34caf64-bbc2-4f74-9af7-964111c8f5d5.png)
+ 
+![BEST HEADER](https://user-images.githubusercontent.com/71393132/147964925-0f7eee81-1fcb-4e46-9d28-9806b444e581.png)
 
  <h3 align="center">Bye!</h3>
