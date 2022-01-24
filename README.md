@@ -46,7 +46,6 @@
 <div align="center">
  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=gitsatishgarg&show_icons=true&include_all_commits=true&theme=algolia&hide_border=true">
  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=GitSatishGarg&theme=algolia&hide_border=true&date_format=M%20j%5B%2C%20Y%5D">
- <img alt="Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=GitSatishGarg&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" />
  
 ![BEST HEADER](https://user-images.githubusercontent.com/71393132/147964925-0f7eee81-1fcb-4e46-9d28-9806b444e581.png)
 
