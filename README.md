@@ -1,8 +1,7 @@
-<body style="background-color: orange;">
- 
-![BEST HEADER](https://user-images.githubusercontent.com/71393132/147964925-0f7eee81-1fcb-4e46-9d28-9806b444e581.png)
+![BEST HEADER](https://user-images.githubusercontent.com/71393132/152367491-038c12bb-c46d-420c-9cb6-a1107678effd.png)
 
- <h3>About Me:- <img align="right" src="https://i.ibb.co/FXs2Fw2/Untitled-1.png" height="300px" /></h3> 
+ <h3>About Me!</h3>
+:- <img align="right" src="https://i.ibb.co/FXs2Fw2/Untitled-1.png" height="300px" /></h3> 
 
 - 🔭 I’m currently working on Photoshop CC </br>
 - 🌱 I’m currently learning Javascript and Photoshop CC </br>
