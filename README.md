@@ -7,7 +7,7 @@
 - 🌱 I’m currently learning Javascript and Photoshop CC </br>
 - 👯 I’m looking to collaborate on Hackathons </br>
 - 🤔 I’m looking for help with Hackathons </br>
-- 😄 Pronouns: Happy, Hard Working, Passionate, Determined, Helpful, Curious, Kind, etc. </br>
+- 😄 Adjectives: Happy, Hard Working, Passionate, Determined, Helpful, Curious, Kind, etc. </br>
 - ⚡ Fun fact: I like Owls
 
 </br></br>
