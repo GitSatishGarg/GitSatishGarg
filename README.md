@@ -1,17 +1,5 @@
 ![BEST HEADER](https://user-images.githubusercontent.com/71393132/152367491-038c12bb-c46d-420c-9cb6-a1107678effd.png)
 
- <h3>About Me!</h3>
-<img align="right" src="https://i.ibb.co/FXs2Fw2/Untitled-1.png" height="300px" /></h3> 
-
-- 🔭 I’m currently working on Photoshop CC </br>
-- 🌱 I’m currently learning Javascript and Photoshop CC </br>
-- 👯 I’m looking to collaborate on Hackathons </br>
-- 🤔 I’m looking for help with Hackathons </br>
-- 😄 Adjectives: Happy, Hard Working, Passionate, Determined, Helpful, Curious, Kind, etc. </br>
-- ⚡ Fun fact: I like Owls
-
-</br></br>
-
 <img width="100%" src="https://user-images.githubusercontent.com/71393132/147966428-ce26dafb-ba63-4889-8b44-4538d19b46fb.png" />
 
 
