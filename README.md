@@ -1,5 +1,4 @@
-<h1 align="center">Hi there, I'm <a href="https://www.blackcater.win/" target="_blank">Satish Garg</a> <img
-src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32" /></h1>
+<h1 align="center">Hi there, I'm <a href="https://www.blackcater.win/" target="_blank">Satish Garg</a> <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32" /></h1>
 
 ```javascript
 var satish = {
@@ -26,5 +25,4 @@ var satish = {
 };
 
 ```
-
 <img width="2674" height="1505" alt="IMG_20250607_211701_817" src="https://github.com/user-attachments/assets/eec95b52-aa7b-40c3-8f0b-49b10bcb2b19" />
