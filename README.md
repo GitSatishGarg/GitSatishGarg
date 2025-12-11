@@ -20,9 +20,12 @@ var satish = {
         },
         databases: ["PostgreSQL", "MongoDB", "SQLite"],
     },
-    currentFocus: "Existing",
-    funFact: "I know 10 different writing systems!"
-    PFP Art By: "Me"
+    FunFacts: {
+    currentFocus: "Existing"
+    writing_systems_learned: 9
+    lore_behind_username: "Celestial Worthy Of Heaven And Earth For Blessings --- Reference to Lord of The Mysteries"
+    pfp_by: "Me"
+    },
 };
 
 ```
