@@ -23,7 +23,7 @@ var satish = {
     funFacts: {
         currentFocus: "Existing",
         writing_systems_learned: 9,
-        lore_behind_username: "Celestial Worthy Of Heaven And Earth For Blessings - Reference to Lord of The Mysteries",
+        lore_behind_username: "Reference to Lord Of The Mysteries",
         pfp_made_by: "Me"
     },
 };
