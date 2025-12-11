@@ -3,7 +3,7 @@
 ```javascript
 var satish = {
     pronouns: "He" | "Him",
-    code: ["Python", "C#", "TypeScript", "HTML/CSS", "Javascript"],
+    code: ["Python", "C#", "TypeScript", "HTML/CSS", "Javascript", "etc."],
     askMeAbout: ["Web Dev", "App Dev", "UI/UX", "Photoshop", "After Effects", "Reverend Insanity"],
     technologies: {
         frontEnd: {
