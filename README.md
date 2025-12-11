@@ -2,7 +2,7 @@
 src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32" /></h1>
 
 ```javascript
-variable satish = {
+var satish = {
     pronouns: "He" | "Him",
     code: ["Python", "C#", "TypeScript", "HTML/CSS", "Javascript"],
     askMeAbout: ["Web Dev", "App Dev", "UI/UX", "Photoshop", "After Effects", "Reverend Insanity"],
