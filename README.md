@@ -21,10 +21,10 @@ var satish = {
         databases: ["PostgreSQL", "MongoDB", "SQLite"],
     },
     FunFacts: {
-    currentFocus: "Existing"
-    writing_systems_learned: 9
-    lore_behind_username: "Celestial Worthy Of Heaven And Earth For Blessings --- Reference to Lord of The Mysteries"
-    pfp_by: "Me"
+        currentFocus: "Existing",
+        writing_systems_learned: 9,
+        lore_behind_username: "Celestial Worthy Of Heaven And Earth For Blessings --- Reference to Lord of The Mysteries",
+        pfp_by: "Me"
     },
 };
 
