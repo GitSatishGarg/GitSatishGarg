@@ -23,7 +23,7 @@ var satish = {
     funFacts: {
         currentFocus: "Existing",
         writing_systems_learned: 9,
-        lore_behind_username: "Reference to Lord Of The Mysteries",
+        lore_behind_username: "Reference to Warmaisach & Cicada",
         pfp_made_by: "Me"
     },
 };
