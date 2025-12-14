@@ -32,5 +32,3 @@ var satish = {
 
 ```
 <img width="2674" height="1505" alt="IMG_20250607_211701_817" src="https://github.com/user-attachments/assets/eec95b52-aa7b-40c3-8f0b-49b10bcb2b19" />
-
-![wavesbot](https://github.com/user-attachments/assets/f045cab4-a70d-42dd-bf93-68d8fe4be4d4)
