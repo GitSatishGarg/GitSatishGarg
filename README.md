@@ -38,27 +38,27 @@ var satish = {
 const featured_projects = [
     {
         name: "Expense Tracker",
-        link: "https://github.com/shang3301/expense-tracker"
+        link: "https://github.com/shang3301/expense-tracker",
         desc: "Manage finances with Python, SQL & Tkinter"
     },
     {
         name: "School Competition Website (IMAGE)",
-        link: "https://github.com/shang3301/image"
+        link: "https://github.com/shang3301/image",
         desc: "Responsive React/TypeScript site with animations"
     },
     {
         name: "Dexterity: EventEye",
-        link: "https://github.com/shang3301/Dexterity"
+        link: "https://github.com/shang3301/Dexterity",
         desc: "Full-stack event management app with Flask & PostgreSQL"
     },
     {
         name: "Re:Draw",
-        link: "https://github.com/shang3301/Re-Draw"
+        link: "https://github.com/shang3301/Re-Draw",
         desc: "Convert handwritten notes to digital text with Python & OpenCV"
     },
     {
         name: "Peace-Makers",
-        link: "https://github.com/shang3301/Peace-Makers"
+        link: "https://github.com/shang3301/Peace-Makers",
         desc: "Website promoting peace-making initiatives with UNICEF"
     }
 ];
