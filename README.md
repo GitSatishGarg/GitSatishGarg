@@ -31,6 +31,40 @@ var satish = {
         pfp_made_by: "Me"
     },
 };
-
 ```
 <img width="2674" height="1505" alt="IMG_20250607_211701_817" src="https://github.com/user-attachments/assets/eec95b52-aa7b-40c3-8f0b-49b10bcb2b19" />
+
+```javascript
+const featured_projects = [
+    {
+        name: "Expense Tracker",
+        link: "https://github.com/shang3301/expense-tracker", // 🔗 [Click here](https://github.com/shang3301/expense-tracker)
+        desc: "Manage finances with Python, SQL & Tkinter"
+    },
+    {
+        name: "School Competition Website (IMAGE)",
+        link: "https://github.com/shang3301/image", // 🔗 [Click here](https://github.com/shang3301/image)
+        desc: "Responsive React/TypeScript site with animations"
+    },
+    {
+        name: "Dexterity: EventEye",
+        link: "https://github.com/shang3301/Dexterity", // 🔗 [Click here](https://github.com/shang3301/Dexterity)
+        desc: "Full-stack event management app with Flask & PostgreSQL"
+    },
+    {
+        name: "Re:Draw",
+        link: "https://github.com/shang3301/Re-Draw", // 🔗 [Click here](https://github.com/shang3301/Re-Draw)
+        desc: "Convert handwritten notes to digital text with Python & OpenCV"
+    },
+    {
+        name: "Peace-Makers",
+        link: "https://github.com/shang3301/Peace-Makers", // 🔗 [Click here](https://github.com/shang3301/Peace-Makers)
+        desc: "Website promoting peace-making initiatives with UNICEF"
+    }
+];
+```
+[💰 Expense Tracker](https://github.com/shang3301/expense-tracker) | 
+[🖼 IMAGE Website](https://github.com/shang3301/image) | 
+[🎮 Dexterity: EventEye](https://github.com/shang3301/Dexterity) | 
+[✏️ Re:Draw](https://github.com/shang3301/Re-Draw) | 
+[✌️ Peace-Makers](https://github.com/shang3301/Peace-Makers)
