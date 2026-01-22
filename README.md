@@ -45,8 +45,8 @@ const featured_projects = [
         desc: "Responsive React/TypeScript site with animations"
     },
     {
-        name: "Dexterity: EventEye",
-        desc: "Full-stack event management app with Flask & PostgreSQL"
+        name: "PlanWise – AI-Powered Plan Generator",
+        desc: "Generate, visualize, and track AI-generated personalized plans with React, GSAP & OpenRouter API"
     },
     {
         name: "Re:Draw",
@@ -60,6 +60,6 @@ const featured_projects = [
 ```
 [💰 Expense Tracker](https://github.com/shang3301/expense-tracker) | 
 [🖼 IMAGE Website](https://github.com/shang3301/image) | 
-[🎮 Dexterity: EventEye](https://github.com/shang3301/Dexterity) | 
+[🧠 PlanWise](https://github.com/shang3301/planwise) | 
 [✏️ Re:Draw](https://github.com/shang3301/Re-Draw) | 
 [✌️ Peace-Makers](https://github.com/shang3301/Peace-Makers)
