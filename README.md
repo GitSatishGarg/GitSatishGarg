@@ -55,8 +55,6 @@ const featured_projects = [
     {
 
         name: "Dexterity: EventEye",
-
-
         desc: "Full-stack event management app with Flask & PostgreSQL"
 
     }
