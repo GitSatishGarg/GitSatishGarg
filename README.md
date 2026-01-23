@@ -53,8 +53,12 @@ const featured_projects = [
         desc: "Convert handwritten notes to digital text with Python & OpenCV"
     },
     {
-        name: "Peace-Makers",
-        desc: "Website promoting peace-making initiatives with UNICEF"
+
+        name: "Dexterity: EventEye",
+
+
+        desc: "Full-stack event management app with Flask & PostgreSQL"
+
     }
 ];
 ```
@@ -62,4 +66,4 @@ const featured_projects = [
 [🖼 IMAGE Website](https://github.com/shang3301/image) | 
 [🧠 PlanWise](https://github.com/shang3301/planwise) | 
 [✏️ Re:Draw](https://github.com/shang3301/Re-Draw) | 
-[✌️ Peace-Makers](https://github.com/shang3301/Peace-Makers)
+[🎮 Dexterity: EventEye](https://github.com/shang3301/Dexterity) | 
